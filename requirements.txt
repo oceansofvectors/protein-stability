@@ -1,0 +1,8 @@
+transformers
+pandas
+tqdm
+torch
+datasets
+evaluate
+sentencepiece
+sklearn
